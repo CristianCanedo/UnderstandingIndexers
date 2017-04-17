@@ -1,0 +1,6 @@
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\BitIndexer\BitIndexer\bin\Debug\BitIndexer.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\BitIndexer\BitIndexer\bin\Debug\BitIndexer.exe
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\BitIndexer\BitIndexer\bin\Debug\BitIndexer.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\BitIndexer\BitIndexer\obj\Debug\BitIndexer.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\BitIndexer\BitIndexer\obj\Debug\BitIndexer.exe
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\BitIndexer\BitIndexer\obj\Debug\BitIndexer.pdb
